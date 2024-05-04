@@ -35,4 +35,34 @@ and putting it on a dashboard is nice, but we need to show some type of technolo
 
 Presentation looks like,
 shill advances in natural language processing,
-say some strangely mathy things, 
+say some strangely mathy things,
+
+
+
+
+H4D problem description -
+When assessing success and strategic messaging within information operations, the
+evaluation of how widely information is disseminated stands as a crucial factor. Social
+media platforms serve as key tools in gauging the authenticity and effectiveness of
+communicated messages. However, due to the vast expanse of social media across various
+languages, understanding sentiment becomes exceedingly complex. Analyzing diverse social
+media platforms in different languages further complicates measurement, making analysis
+subjective.
+● For instance, in humanitarian missions supporting oppressed groups, broadcasting
+messages becomes crucial in countering suppressive narratives. Assessing sentiment
+changes towards America, measuring from, say, a 30% to 50% positivity rate or
+demonstrating positive shifts after disseminating specific messages, holds significant
+importance.
+● An all-in-one capability to scrape social media sites is desired, given the current anecdotal
+and sporadic observation-based methods, especially on platforms like Twitter. The existing
+process of sentiment analysis remains highly manual and lacks comprehensive coverage.
+This approach is essential not only for strategic campaigns but also for understanding how
+the United States is perceived by other nations.
+
+
+
+
+Key takeaways:
+1. It's actually fucking manual? Are you kidding me government?
+2. They do care about tracking the information and efficacy of their productivity. Sydney said before; what about
+sales? it's harder when it's not a company trying to literally track a product. 
