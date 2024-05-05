@@ -1,0 +1,15 @@
+First we have to insert the text into the messages database.
+
+Then, we get an entity_id for each entity in the text. if the entity doesn't exist, we add its canonical name to the entity database. If the entity does exist, we get it's entity id by selecting entity_id by canonical name.
+
+We take that entity_id and message_id and the sentiment and insert it into the entity_sentiment database, also with the date_time of the message id. 
+
+then we go back to the message, and see if we have any author metadata as well. If we have an identifying platform handle, we search for the author_id using the platform_handle, and we map that author_id to that message.  If we don't, we ignore that. Given that, that should actually probably be the very first thing we do.  
+
+If we do have that information, but the author doesn't have an author_id, then we insert into the authors table, with whatever metadata we were able to glean about the author. At the very least, we can get platform_name, platform_handle. \
+
+Am i missing anything?
+
+
+before inserting an entity, check all other entities, to see if match. 
+
