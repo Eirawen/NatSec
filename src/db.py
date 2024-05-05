@@ -1,8 +1,17 @@
 import os
 import csv
 import sqlite3
+<<<<<<< HEAD
 import random 
 from dataclasses import dataclass
+=======
+from dataclasses import dataclass
+
+@dataclass
+class Entity:
+    name: str
+    canonical: bool
+>>>>>>> ee945f9275d6b0ae541c51738e04ba5b0b5ae75f
 
 @dataclass
 class Message:
