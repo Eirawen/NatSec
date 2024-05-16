@@ -63,6 +63,6 @@ the United States is perceived by other nations.
 
 
 Key takeaways:
-1. It's actually fucking manual? Are you kidding me government?
+1. It's actually manual?
 2. They do care about tracking the information and efficacy of their productivity. Sydney said before; what about
 sales? it's harder when it's not a company trying to literally track a product. 
